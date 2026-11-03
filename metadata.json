@@ -1,0 +1,6 @@
+{
+  "name": "Anonymous Connect",
+  "description": "Connect Privately. Chat Freely. No Registration Required. A temporary-identity-based private one-to-one real-time messaging platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
